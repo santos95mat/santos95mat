@@ -1,5 +1,5 @@
-### Matheus Rodrigues || Matt 🕹️🤖⚽
-#### Apaixonado por games, ciência, tecnologia, filosofia, séries, filmes e esportes.
+### Matheus Rodrigues || Matt 🕹️⚽
+#### < I like games, science, technology, philosophy, TV series, movies & sports. />
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheussantos1995/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsantos.95/)
@@ -11,7 +11,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos95mat&layout=compact&theme=tokyonight&cache_seconds=2000&langs_count=6"/>
 </div>
 
-## Tecnologias que uso no dia a dia
+## Programming Languages & Technology Stack
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
