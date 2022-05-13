@@ -39,6 +39,7 @@
  
  <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
  
 ![Snake animation](https://github.com/santos95mat/santos95mat/blob/output/github-contribution-grid-snake.svg)
