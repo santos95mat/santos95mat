@@ -8,7 +8,7 @@
 <div style="width: inherit; display: flex; justify-content: space-evenly">
  <a href="https://github.com/santos95mat">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santos95mat&hide=stars&count_private=false&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=2000&include_all_commits=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos95mat&layout=compact&theme=tokyonight&cache_seconds=2000&langs_count=6"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos95mat&count_private=false&layout=compact&theme=tokyonight&cache_seconds=2000&langs_count=6"/>
 </div>
 
 ## Programming Languages & Technology Stack
