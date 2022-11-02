@@ -3,9 +3,10 @@
 </h1>
 
 ```
-- Apaixonado por jogos, esportes, filosofia, arte e tecnologia
-- Defensor dos animais
-- Sonho em conhecer o mundo
+- Apaixonado por jogos, esportes, filosofia, arte e tecnologia.
+- Defensor dos animais.
+- Sonho em conhecer o mundo.
+- Só o amor e a arte tornam a existência tolerável.
 ```
 
 <div style="display: inline-block">
