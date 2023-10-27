@@ -53,7 +53,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20px" />
 </div></br>
 
-##
-
-![Snake animation](https://github.com/santos95mat/santos95mat/blob/output/github-contribution-grid-snake.svg)
-
