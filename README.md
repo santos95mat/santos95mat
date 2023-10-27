@@ -9,8 +9,11 @@
 </div></br>
 
 ```
-- Apaixonado por jogos, esportes, filosofia, arte e tecnologia.
-- Defensor dos animais.
+- Valorant Low Elo 🎮
+- F1 fã (o esporte) 🏁
+- Atleticano 🐔
+- Gosto de filosofar sobre a vida
+- Maratonista de animes
 - Sonho em conhecer o mundo.
 ```
 
@@ -39,7 +42,8 @@
 
 <div style="display: inline-block">
   🛢 Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="23px" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="23px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="23px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="23px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="23px" />
 </div></br>
