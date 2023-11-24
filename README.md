@@ -1,6 +1,9 @@
+<!---
 <h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=13F728&background=FF632300&center=false&vCenter=true&multiline=false&width=800&height=50&lines=Olá!+Sou+o+Matheus+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=13F728&background=FF632300&center=false&vCenter=true&multiline=false&width=800&height=50&lines=Olá!+Sou+o+Matheus+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+-->
+
+<h1>Olá! Sou o Matheus :wave:</h1>
 
 <div> 
   <a href="https://wa.me/+5531971688746?text=..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
