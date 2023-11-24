@@ -31,7 +31,7 @@ type Person struct {
 	Tools    []string
 }
 
-func (p *Pessoa) Greeting() string {
+func (p *Person) Greeting() string {
 	greeting := fmt.Sprintf("Olá, me chamo %s, tenho %s anos e sou %s!", p.Name, p.Age, p.Info)
 	return greeting
 }
