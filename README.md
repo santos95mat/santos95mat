@@ -45,7 +45,7 @@ func main() {
 		Age:      "28",
 		Info:     "Backend developer",
 		Pronuns:  "he/him",
-		Langs:    []string{"GO", "Java", "JS", "TS", "Python"},
+		Langs:    []string{"GO", "C#", "JS", "TS", "Python"},
 		Database: []string{"Postgres", "MongoDB", "MySQL"},
 		Tools:    []string{"Git", "Docker", "Heroku"},
 	}
