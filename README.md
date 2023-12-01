@@ -10,12 +10,6 @@
   	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </h1>
 
-<div>
-	<a href="https://wa.me/+5531971688746?text=..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-	<a href="mailto:santos95.mat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="https://www.linkedin.com/in/msantos95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div></br>
-
 - :computer: Estudante de Análise e desenvolvimento de sistemas - 2⁰ Semestre.
 - :video_game: Valorant low elo.
 - :checkered_flag: F1 fã (o esporte).
@@ -31,6 +25,9 @@
 <h2></h2>
 
 <div align="center" style="display: inline_block">
+	<a href="https://wa.me/+5531971688746?text=..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+	<a href="mailto:santos95.mat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/msantos95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="https://x.com/mrsantos95" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
 	<a href="https://instagram.com/mrsantos.95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<a href="https://www.youtube.com/@santos95mat" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
